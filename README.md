@@ -1,0 +1,2 @@
+# -MishmeretProj
+Mishmeret synagogue project
